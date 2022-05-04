@@ -1,1 +1,1 @@
-Essential Systems Administration Scripts - Python & Shell
+Essential scripts for automating Systems Administration tasks - Python & Shell
